@@ -1,7 +1,7 @@
 import styled from 'styles/styled-components';
 
 const List = styled.ul`
-  font-family: Georgia, Times, 'Times New Roman', serif;
+font-family: 'Ubuntu', sans-serif;
   padding-left: 1.75em;
 `;
 
